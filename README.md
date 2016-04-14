@@ -50,4 +50,4 @@ A compiled list of the biggest companies that hire software developers
 -   Wells Fargo - https://www.wellsfargo.com/about/careers/mbas-and-undergrads/undergrads/
 
 
-##### Know any other internship opportunities you'd like to share? Email us at: kuacm@ku.edu
+##### Know any other internship opportunities you'd like to share? Email us at: kuacm@ku.edu!
